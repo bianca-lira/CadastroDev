@@ -1,4 +1,4 @@
 # CadastroDev
 Formulário para cadastrar desenvolvedores utilizando HTML e CSS
 
-Créditos: Rafaella Ballerini
+Realizado através de um vídeo aula de Rafaella Ballerini, no Youtube.
